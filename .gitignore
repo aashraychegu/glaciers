@@ -1,0 +1,8 @@
+*.txt
+*.png
+*.tiff
+wandb/*
+segformer-test-1/*
+*.csv
+*.zip
+raws/*
